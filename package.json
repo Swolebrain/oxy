@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "driver code for pptr ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no tests\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swolebrain/oxy.git"
+  },
+  "author": "swolebrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swolebrain/oxy/issues"
+  },
+  "homepage": "https://github.com/Swolebrain/oxy#readme",
+  "dependencies": {
+    "puppeteer": "^20.8.2",
+    "puppeteer-core": "^20.8.2"
+  }
+}
